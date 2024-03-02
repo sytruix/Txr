@@ -1,2 +1,5 @@
 #自定义添加reddit.com
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
