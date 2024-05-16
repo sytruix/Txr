@@ -1,6 +1,4 @@
 # 自定义添加节点选择
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,lgb.cx
-
-# AI IPv6跳过
 IP-CIDR6,2605:e440:15::/48,no-resolve
