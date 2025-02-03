@@ -3,8 +3,8 @@ DOMAIN,trui.top
 DOMAIN,z1.trui.top
 DOMAIN,z2.trui.top
 DOMAIN,z3.trui.top
-DOMAIN-SUFFIX,a.trui.top
-DOMAIN-SUFFIX,b.trui.top
-DOMAIN-SUFFIX,d.trui.top
-DOMAIN-SUFFIX,sy.trui.top
-DOMAIN-SUFFIX,emby.trui.top
+DOMAIN,a.trui.top
+DOMAIN,b.trui.top
+DOMAIN,d.trui.top
+DOMAIN,sy.trui.top
+DOMAIN,emby.trui.top
