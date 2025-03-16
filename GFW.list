@@ -1,7 +1,4 @@
 # 自定义添加节点选择
-DOMAIN,s.trui.top
-DOMAIN,n.trui.top
-DOMAIN,z.trui.top
-DOMAIN,sub.trui.top
+DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,lgb.cx
 DOMAIN-SUFFIX,mikanani.me
